@@ -35,7 +35,23 @@ git add .
 
 ```shell
 git commit -m "Second version of the project"
+
+  
 ```
+
+
+8.      git branch -M main
+  
+9.     git remote add origin https://github.com/TenexDesigns/Labsky.git
+
+10.    git push -u origin main
+
+
+
+
+
+
+  
 
 **How Does Git Store Changes?**
 
