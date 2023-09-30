@@ -23,7 +23,21 @@ git add .
 git commit -m "First version of the project"
 ```
 
-5. As you continue working on your project, you make changes to your files and directories. You do not need to run `git init` again; the repository is already initialized.
+// `
+
+
+8.      git branch -M main
+  
+9.     git remote add origin https://github.com/TenexDesigns/Labsky.git
+
+10.    git push -u origin main
+
+
+
+
+  ---------------------------------------------
+
+  5. As you continue working on your project, you make changes to your files and directories. You do not need to run `git init` again; the repository is already initialized.
 
 6. You stage the modified project using `git add` again. This adds a snapshot of the modified project to the staging area.
 
@@ -35,19 +49,6 @@ git add .
 
 ```shell
 git commit -m "Second version of the project"
-
-  
-```
-
-
-8.      git branch -M main
-  
-9.     git remote add origin https://github.com/TenexDesigns/Labsky.git
-
-10.    git push -u origin main
-
-
-
 
 
 
@@ -65,6 +66,8 @@ Therefore, Git enables you to access the complete state of your project at any c
 
 
 
+
+  A highly motivated and adaptable Fullstack Developer with a strong passion for creating robust and efficient web applications. Proficient in JavaScript, Java, Spring, React, Next.js, and SQL. Seeking opportunities to contribute to dynamic development teams and leverage technical expertise to build innovative software solutions.
 
 
 
